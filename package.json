@@ -55,7 +55,7 @@
     "start": "node node_modules/grunt-cli/bin/grunt"
   },
   "dependencies": {
-    "async": "*",
+    "async": "0.9.2",
     "base58-native": "0.1.2",
     "bignum": "0.13.0",
     "bitauth": "^0.1.1",
